@@ -1,2 +1,2 @@
 # CSME2
-Repository for CSME2 Assignments for Machine Learning
+Repository for Computer Science in Mechanical Engineering-2 Assignments for Machine Learning
